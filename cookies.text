@@ -5,3 +5,7 @@ COOKIES
         Once  acookie is set, a user's browser will send the cookie on every subsequent
         request to the site
         Cookies allow use to make HTTP stateful
+
+SIGNING COOKIES 
+    To make sure the original data is recived
+        to verified cookies have not been changed
