@@ -9,3 +9,7 @@ COOKIES
 SIGNING COOKIES 
     To make sure the original data is recived
         to verified cookies have not been changed
+
+MOREABOUT COOKIES:
+    -Contain data up to 4096 Bytes 
+    
